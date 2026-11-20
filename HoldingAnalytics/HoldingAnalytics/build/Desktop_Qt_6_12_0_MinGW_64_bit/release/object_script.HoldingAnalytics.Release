@@ -1,0 +1,12 @@
+release/main.o
+release/database.o
+release/dataservice.o
+release/analytics.o
+release/crudtab.o
+release/analysttabs.o
+release/rolewindow.o
+release/loginwindow.o
+release/moc_crudtab.o
+release/moc_analysttabs.o
+release/moc_rolewindow.o
+release/moc_loginwindow.o

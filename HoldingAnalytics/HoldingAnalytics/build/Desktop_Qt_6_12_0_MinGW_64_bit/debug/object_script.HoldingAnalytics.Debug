@@ -1,0 +1,12 @@
+debug/main.o
+debug/database.o
+debug/dataservice.o
+debug/analytics.o
+debug/crudtab.o
+debug/analysttabs.o
+debug/rolewindow.o
+debug/loginwindow.o
+debug/moc_crudtab.o
+debug/moc_analysttabs.o
+debug/moc_rolewindow.o
+debug/moc_loginwindow.o
